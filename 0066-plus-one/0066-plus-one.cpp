@@ -6,7 +6,6 @@ public:
 
         digits[size - 1] += 1;
 
-        // Handle carry from right to left
         for (int i = size - 1; i > 0; i--) {
 
             if (digits[i] == 10) {
@@ -15,7 +14,6 @@ public:
             }
         }
 
-        // If the first digit also became 10
         if (digits[0] == 10) {
             digits[0] = 0;
             digits.insert(digits.begin(), 1);
