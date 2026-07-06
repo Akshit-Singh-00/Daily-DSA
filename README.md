@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -18,4 +19,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
