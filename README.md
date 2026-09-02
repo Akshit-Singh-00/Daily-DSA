@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0118-pascals-triangle) |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
