@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0118-pascals-triangle) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
