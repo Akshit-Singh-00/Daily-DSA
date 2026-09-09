@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0118-pascals-triangle) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0118-pascals-triangle) |
 ## Binary Search
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
