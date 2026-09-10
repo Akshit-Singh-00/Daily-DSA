@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0162-find-peak-element) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0074-search-a-2d-matrix) |
 ## Algorithm X
 |  |
 | ------- |
