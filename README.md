@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0189-rotate-array) |
@@ -200,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
