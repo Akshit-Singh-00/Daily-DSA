@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0202-happy-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -240,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0005-longest-palindromic-substring) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
