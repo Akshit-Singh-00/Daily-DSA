@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0202-happy-number) |
+| [0445-add-two-numbers-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0445-add-two-numbers-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0042-trapping-rain-water) |
+| [0445-add-two-numbers-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0445-add-two-numbers-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
