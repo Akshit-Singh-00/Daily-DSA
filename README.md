@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0445-add-two-numbers-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
