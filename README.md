@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0445-add-two-numbers-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
