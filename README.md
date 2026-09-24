@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0445-add-two-numbers-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0171-excel-sheet-column-number) |
 ## Trie
 |  |
 | ------- |
