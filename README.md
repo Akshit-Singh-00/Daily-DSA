@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0202-happy-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0344-reverse-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Trie
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0067-add-binary) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
