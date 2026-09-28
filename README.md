@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0179-largest-number) |
+| [0290-word-pattern](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0290-word-pattern) |
 ## Trie
 |  |
 | ------- |
