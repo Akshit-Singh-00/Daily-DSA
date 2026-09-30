@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0541-reverse-string-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0796-rotate-string) |
 ## Trie
 |  |
