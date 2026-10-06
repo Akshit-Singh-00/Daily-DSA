@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0567-permutation-in-string) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Number Theory
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0482-license-key-formatting/) | Easy |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
