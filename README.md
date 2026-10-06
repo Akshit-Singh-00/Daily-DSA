@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0162-find-peak-element) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
