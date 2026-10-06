@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0283-move-zeroes) |
