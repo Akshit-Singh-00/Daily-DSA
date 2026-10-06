@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0013-roman-to-integer) |
@@ -23,8 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0029-divide-two-integers) |
@@ -44,8 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0015-3sum) |
@@ -80,8 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0011-container-with-most-water) |
@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -126,8 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0018-4sum) |
@@ -141,22 +142,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0238-product-of-array-except-self) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0042-trapping-rain-water) |
@@ -166,8 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0118-pascals-triangle) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0035-search-insert-position) |
@@ -177,20 +178,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0148-sort-list) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0179-largest-number) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0006-zigzag-conversion) |
@@ -219,40 +221,40 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0796-rotate-string) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0567-permutation-in-string) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0796-rotate-string) |
 ## Z Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Knuth–Morris–Pratt Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Boyer–Moore String-Search Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0037-sudoku-solver) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0054-spiral-matrix) |
@@ -261,42 +263,42 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0835-image-overlap) |
 ## Algorithm X
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0037-sudoku-solver) |
 ## Dancing Links
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0037-sudoku-solver) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0445-add-two-numbers-ii) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0042-trapping-rain-water) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0043-multiply-strings](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0067-add-binary) |
 ## Quicksort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0056-merge-intervals](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0075-sort-colors) |
 ## Bubble Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0075-sort-colors) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0021-merge-two-sorted-lists) |
@@ -324,8 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0024-swap-nodes-in-pairs) |
@@ -334,37 +336,49 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0234-palindrome-linked-list) |
 ## Manacher
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0005-longest-palindromic-substring) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0148-sort-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0148-sort-list) |
 ## Bracket Sequences
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0141-linked-list-cycle) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0070-climbing-stairs) |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
