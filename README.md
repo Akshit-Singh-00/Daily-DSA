@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -395,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0257-binary-tree-paths/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
