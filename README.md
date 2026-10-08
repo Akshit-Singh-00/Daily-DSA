@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0037-sudoku-solver) |
+| [0257-binary-tree-paths](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -387,4 +390,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0257-binary-tree-paths/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
