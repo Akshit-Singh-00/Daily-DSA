@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0567-permutation-in-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0567-permutation-in-string) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0835-image-overlap](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0835-image-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0482-license-key-formatting/) | Easy |
+| [0500-keyboard-row](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0567-permutation-in-string) |
