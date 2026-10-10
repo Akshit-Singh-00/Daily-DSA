@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0567-permutation-in-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0575-distribute-candies/) | Easy |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0500-keyboard-row/) | Easy |
+| [0575-distribute-candies](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0835-image-overlap](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0835-image-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
