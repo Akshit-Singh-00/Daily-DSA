@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0575-distribute-candies](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0704-binary-search](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0835-image-overlap](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0835-image-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0724-find-pivot-index/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
