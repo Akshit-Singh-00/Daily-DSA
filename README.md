@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0575-distribute-candies/) | Easy |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1590-make-sum-divisible-by-p](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 | Problem Name | Difficulty |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0835-image-overlap) |
 | [1480-running-sum-of-1d-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1590-make-sum-divisible-by-p](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1590-make-sum-divisible-by-p](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
