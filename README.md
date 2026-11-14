@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0202-happy-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0203-remove-linked-list-elements) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
