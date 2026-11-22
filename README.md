@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0445-add-two-numbers-ii) |
+| [0509-fibonacci-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0509-fibonacci-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
 | ------- |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
