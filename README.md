@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3677-count-binary-palindromic-numbers](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/3677-count-binary-palindromic-numbers/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3677-count-binary-palindromic-numbers](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/3677-count-binary-palindromic-numbers/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
