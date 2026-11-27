@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0389-find-the-difference/) | Easy |
+| [0394-decode-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Akshit-Singh-00/Daily-DSA/tree/main/0390-elimination-game/) | Medium |
+| [0394-decode-string](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Akshit-Singh-00/Daily-DSA/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
